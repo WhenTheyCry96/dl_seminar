@@ -9,6 +9,7 @@ Any questions or requests are welcome
 ## github Update Log
 ```
 26/09/2018 --project init
+27/09/2018 --python code added 
 ```
 
 ## Descriptions
