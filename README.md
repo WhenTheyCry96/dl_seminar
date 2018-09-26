@@ -15,7 +15,7 @@ Any questions or requests are welcome
 
 Deep Learning Seminar from A to Z. This project is for the beginners who are new to Python and deep learning.
 
-This project covers the following list:
+This project covers the following areas:
 * Introduction to Python
 * Basic Classification
 * Regression
@@ -50,6 +50,11 @@ jedi                     0.11.0
 * **Sun Park (github)** - [WhenTheyCry96](https://github.com/WhenTheyCry96)
 * **Sun Park (e-mail)** - pajoheji0909@snu.ac.kr
 
+## References
+* Introduction to Python
+- [jump to python](https://wikidocs.net)
+- [python tutorial](https://docs.python.org/3/tutorial/index.html)
+- [tutorials point](https://www.tutorialspoint.com/python)
 
 ## License
 

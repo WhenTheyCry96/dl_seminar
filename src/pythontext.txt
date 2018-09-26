@@ -1,0 +1,3 @@
+title : pythontext
+format : txt
+Life is too short, write in PythonLife is too short, write in Python
