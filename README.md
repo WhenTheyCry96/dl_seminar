@@ -9,7 +9,7 @@ Any questions or requests are welcome
 ## github Update Log
 ```
 26/09/2018 --project init
-27/09/2018 --python code added 
+27/09/2018 --python code added
 ```
 
 ## Descriptions
@@ -35,6 +35,8 @@ python                   3.5.2
 pip                      9.0.1  
 tensorflow               1.3.0
 tensorflow-tensorboard   0.1.8
+pytorch                  0.4.1
+torchvision              0.2.1
 matplotlib               2.1.0
 numpy                    1.13.3
 jedi                     0.11.0
@@ -53,10 +55,15 @@ jedi                     0.11.0
 
 ## References
 * Introduction to Python
-- [jump to python](https://wikidocs.net)
-- [python tutorial](https://docs.python.org/3/tutorial/index.html)
-- [tutorials point](https://www.tutorialspoint.com/python)
-
+[jump to python](https://wikidocs.net)
+[python tutorial](https://docs.python.org/3/tutorial/index.html)
+[tutorials point](https://www.tutorialspoint.com/python)
+* Basic Classification / Regression / CNN / RNN / GAN
+[Stanford cs231n](https://youtu.be/vT1JzLTH4G4)
+[모두를 위한 딥러닝](https://youtu.be/BS6O0zOGX4E)
+[모두를 위한 딥러닝-RL](https://youtu.be/dZ4vw6v3LcA)
+* YOLO
+[YOLO github](https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
