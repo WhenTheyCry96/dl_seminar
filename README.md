@@ -6,12 +6,6 @@ Any questions or requests are welcome
 
 #### (IMPORTANT) THIS PROJECT IS FOR INTERNAL USE ONLY
 
-## github Update Log
-```
-26/09/2018 --project init
-27/09/2018 --python code added
-```
-
 ## Descriptions
 
 Deep Learning Seminar from A to Z. This project is for the beginners who are new to Python and deep learning.
@@ -29,6 +23,7 @@ This project covers the following areas:
 
 What things you need to install the software and how to install them.
 If it is possible to use the latest version of them, use the latest version.
+It is highly recommended to Use [Google Colab](https://colab.research.google.com)
 ```
 [name]                  [version]   
 python                   3.5.2
