@@ -18,6 +18,7 @@ This project covers the following areas:
 * YOLO
 * RNN
 * GAN
+* Simple Example of Reinforcement Learning
 
 ### Prerequisites
 
@@ -36,6 +37,7 @@ torchvision              0.2.1
 matplotlib               2.1.0
 numpy                    1.13.3
 jedi                     0.11.0
+gym                      0.10.9
 ```
 
 ## Built With
@@ -62,6 +64,7 @@ jedi                     0.11.0
 [모두를 위한 딥러닝-RL](https://youtu.be/dZ4vw6v3LcA)
 * YOLO
 [YOLO github](https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
