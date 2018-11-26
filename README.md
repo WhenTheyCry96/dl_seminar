@@ -42,7 +42,7 @@ jedi                     0.11.0
 
 * [atom](https://atom.io) - Editor
 * [virtualenv](https://virtualenv.pypa.io/en/stable/) - Python Package versioning
-* [guake terminal](https://github.com/Guake/guake) - Terminal
+* [Google Colab](https://colab.research.google.com) - Google Colab
 
 ## Author
 
