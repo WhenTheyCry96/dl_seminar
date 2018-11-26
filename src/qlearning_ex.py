@@ -17,7 +17,7 @@ import gym
 from gym import wrappers
 
 n_states = 40
-iter_max = 2000
+iter_max = 3000
 
 initial_lr = 1.0 # Learning rate
 min_lr = 0.003
